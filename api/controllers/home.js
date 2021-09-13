@@ -1,5 +1,5 @@
 
 exports.sayHello = (req,res,next) => {
-        res.send('Hello !')
+    res.send('Hello from test code!')
     
 }
