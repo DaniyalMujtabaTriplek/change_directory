@@ -52,5 +52,5 @@ jobs:
       with:
         app-name: 'newtestsection'
         slot-name: 'devslot'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_dd1bacd8fbb944cbb99977488a95ca47 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_37b5596fda8b4d8e9ed07570aa646b87 }}
         package: .
